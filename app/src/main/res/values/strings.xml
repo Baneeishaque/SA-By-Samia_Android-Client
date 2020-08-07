@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">SA-By-Samia</string>
+    <string name="shopping_cart">Shopping Cart</string>
+    <string name="search">Search</string>
+    <string name="s_a_by_samia">S.A BY SAMIA</string>
+    <string name="menu">Menu</string>
+    <string name="toolbar">Toolbar</string>
+    <string name="item_price">item_price</string>
+    <string name="item_name">item_name</string>
+    <string name="itemimage">itemImage</string>
 </resources>
