@@ -18,5 +18,7 @@ jobs:
       with:
         distribution: 'adopt'
         java-version: '11'
+    - name: Permission Fix for Gradle Wrapper
+      run: chmod a+rwx gradlew
     - name: Build with Gradle
       run: ./gradlew build
